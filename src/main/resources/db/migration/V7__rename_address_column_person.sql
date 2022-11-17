@@ -1,0 +1,1 @@
+alter table address rename column person to person_id;
